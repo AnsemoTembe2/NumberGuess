@@ -2,6 +2,7 @@
 Number Guess is an android application written in Kotlin language, which consists of a game in which a number is randomly chosen by the smartphone and the player must guess which number was chosen.
 With each move, the game informs whether the number the player entered is close to or far from the one chosen by the smartphone until the player is able to get it right.
 The game has a console that continuously indicates all types of activities performed within the game.
+hello anselmo here
 
 ## Screenshots
 
